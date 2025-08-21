@@ -1,16 +1,22 @@
-# NewsApp_api
+# 📰 NewsApp - Stay Connected
+
+A responsive web-based news application that helps users stay updated with the latest headlines from around the world, categorized by topics like Business, Health, Technology, and more.
+
+<!-- Optional: add a screenshot image -->
+
 ---
 
-## 🎯 Getting Started
+## 🚀 Features
 
-### Prerequisites
+- 🌐 Fetches live news (optional backend or API integration)  
+- 🔍 Search functionality  
+- 📱 Fully responsive: mobile-friendly with collapsible menu  
+- 🗂️ Browse news by categories  
+- 💅 Clean, modern UI using HTML5 + CSS3  
+- ⚡ Fast and lightweight (no frameworks required)  
 
-- Modern web browser (Chrome, Firefox, Edge, Safari)
+✅ Responsive Design
 
-### Installation
+Desktop View: Full header with search and category buttons.
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/news-app.git
-cd news-app
+Mobile View: Collapsible menu with ☰ toggle button.
