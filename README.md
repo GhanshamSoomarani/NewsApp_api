@@ -23,12 +23,16 @@ A responsive web-based news application that helps users stay updated with the l
 - Technology
 
 
-✅ Responsive Design
+# ✅ Responsive Design
 
-Desktop View: Full header with search and category buttons.
+## Desktop View: Full header with search and category buttons.
 ![Alt text describing image](desktop.png)
 
 
-Mobile View: Collapsible menu with ☰ toggle button.
-![Alt text describing image](mobile.png)
-![Alt text describing image](mobilemenu.png)
+## 📱 Mobile View: Collapsible Menu with ☰ Toggle Button
+
+<p align="center">
+  <img src="mobile.png" alt="Mobile View" width="45%">
+  &nbsp;
+  <img src="mobilemenu.png" alt="Mobile Menu Open" width="45%">
+</p>
