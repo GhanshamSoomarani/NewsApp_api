@@ -13,7 +13,16 @@ A responsive web-based news application that helps users stay updated with the l
 - 📱 Fully responsive: mobile-friendly with collapsible menu  
 - 🗂️ Browse news by categories  
 - 💅 Clean, modern UI using HTML5 + CSS3  
-- ⚡ Fast and lightweight (no frameworks required)  
+
+## 📸 Example Categories
+
+- General
+- Business
+- Entertainment
+- Health
+- Science
+- Sports
+- Technology
 
 ✅ Responsive Design
 
