@@ -6,10 +6,10 @@ A responsive web-based news application that helps users stay updated with the l
 
 ## 🚀 Features
 
-- 🌐 Fetches live news (optional backend or API integration)  
+- 🌐 Dynamic news fetching using public APIs  
 - 🔍 Search functionality  
-- 📱 Fully responsive: mobile-friendly with collapsible menu  
 - 🗂️ Browse news by categories  
+- 📱 Fully responsive: mobile-friendly with collapsible menu  
 - 💅 Clean, modern UI using HTML5 + CSS3  
 
 ## 📸 Example Categories
@@ -36,3 +36,6 @@ A responsive web-based news application that helps users stay updated with the l
   &nbsp;
   <img src="mobilemenu.png" alt="Mobile Menu Open" width="45%">
 </p>
+
+![Alt text describing image](loading.png)
+![Alt text describing image](notsupport.png)
