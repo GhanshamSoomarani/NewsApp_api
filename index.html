@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NewsApp - Stay Connected</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="header">
+      <h1>NEWS APP</h1>
+      <p>Stay connected with the latest news from around the world</p>
+    </div>
+
+    <nav class="navbar">
+      <div class="nav-title">News App</div>
+      <button class="nav-toggle" id="navToggle">☰</button>
+    </nav>
+
+    <div class="nav-menu" id="navMenu">
+      <div class="search-categories">
+        <input type="text" class="search-box" placeholder="Search News . . . " id="searchInput" />
+        <div class="categories category-menu" id="categoryMenu">
+          <button class="category-btn active" data-category="general">General</button>
+          <button class="category-btn" data-category="business">Business</button>
+          <button class="category-btn" data-category="entertainment">Entertainment</button>
+          <button class="category-btn" data-category="health">Health</button>
+          <button class="category-btn" data-category="science">Science</button>
+          <button class="category-btn" data-category="sports">Sports</button>
+          <button class="category-btn" data-category="technology">Technology</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="news-grid" id="newsGrid"></div>
+
+    <div class="loading" id="loading" style="display: none;">Loading . . .</div>
+    <div class="error" id="error" style="display: none;">Error . . .</div>
+    <div class="end-message" id="endMessage" style="display: none;">
+      🎉 You've reached the end! ✨✨
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
